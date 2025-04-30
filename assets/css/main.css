@@ -1199,7 +1199,6 @@ section,
 .portfolio .portfolio-card .portfolio-image {
   position: relative;
   overflow: hidden;
-  aspect-ratio: 16/10;
 }
 
 .portfolio .portfolio-card .portfolio-image img {
